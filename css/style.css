@@ -47,12 +47,13 @@ margin: 50px;
     margin-right: auto;
 } */
 body {
-    background-color: gray;
+    background-color: rgb(243, 237, 240);
 }
 nav {
-   background-color: rgb(65, 72, 80);
-   height: 90px;
-   padding-left: 300px;
+   padding-left: 200px;
+   height: 80px;
+  background-color: rgb(65, 72, 80); 
+  
 }
 nav img {
     display: inline-block;
